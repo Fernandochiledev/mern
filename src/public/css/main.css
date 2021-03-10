@@ -1,0 +1,18 @@
+#mytoast {
+  background-color: lemonchiffon !important;
+  color: red !important;
+}
+#toast {
+  background-color: lemonchiffon !important;
+  color: black !important;
+}
+#marginCard {
+  margin-top: 40px;
+}
+
+.btnmargin {
+  margin-left: 5px !important;
+}
+.active {
+  background-color: #cc444b;
+}
